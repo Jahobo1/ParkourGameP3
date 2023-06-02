@@ -7808,7 +7808,7 @@ GameObject:
   - component: {fileID: 1894718404}
   m_Layer: 0
   m_Name: FirstPersonPlayer
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7906,6 +7906,7 @@ MonoBehaviour:
   - {fileID: 249670467}
   - {fileID: 704824721}
   - {fileID: 1950135702}
+  - {fileID: 0}
   vectorPoint: {x: 0, y: 0, z: 0}
   dead: 20
 --- !u!1 &1913922944
