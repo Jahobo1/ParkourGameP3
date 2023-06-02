@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f9d23532002865f4db5f11c727ec6b29
+  - enabled: 1
+    path: Assets/Scenes/Parkour Game.unity
+    guid: ac68a6e294cb3314da680efc36e573fc
   m_configObjects: {}
